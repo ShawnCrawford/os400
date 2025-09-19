@@ -14,11 +14,7 @@
 - **Reporting and analytics:** generate dashboards for sales velocity, support SLAs, customer health scores, and operational KPIs.
 
 ## Translating the AS/400 Workflow
-- **Menu-driven launchpad:** preserve the familiar "Welcome to 0s400" landing screen with a numerical menu (e.g., `1. Clients`, `2. Journal`, `3. Contacts`, `4. Call Notes`) so power users can type a selection or use shortcuts to jump directly into a module.
-- **Retain structured, keyboard-driven efficiency:** adopt navigable command palettes, keyboard shortcuts, and structured data entry forms reminiscent of green-screen workflows while honoring minimal, distraction-free visuals.
-- **Minimalistic two-pane workspace:** default to a split view where the upper pane surfaces primary client context (e.g., profile, demographics, active contracts) and the lower pane shows the latest journals. Each pane can be independently switched to related subviews such as contact information, tagged journals, call notes, or profile edit history, mirroring how AS/400 screens allowed flexible panel swaps.
-- **Contextual actions:** surface next-step actions aligned with AS/400 function keys, modernized into customizable action bars and right-click menus.
-- **Desktop-first implementation:** deliver a native desktop experience (Electron or .NET MAUI) that mirrors the predictable, low-latency behavior of legacy terminals and supports quick pane toggles and keyboard cycling.
+
 - **Future web extension:** plan a responsive web client that reuses core services and presents the same workflows optimized for browser-based interactions and mobile access.
 
 ## Feature Roadmap
