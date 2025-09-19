@@ -14,10 +14,7 @@
 - **Reporting and analytics:** generate dashboards for sales velocity, support SLAs, customer health scores, and operational KPIs.
 
 ## Translating the AS/400 Workflow
-- **Retain structured, keyboard-driven efficiency:** adopt navigable command palettes, keyboard shortcuts, and structured data entry forms reminiscent of green-screen workflows.
-- **Modern information density:** use tabbed detail panes and collapsible sections to show dense information without overwhelming the user.
-- **Contextual actions:** surface next-step actions aligned with AS/400 function keys, modernized into customizable action bars and right-click menus.
-- **Desktop-first implementation:** deliver a native desktop experience (Electron or .NET MAUI) that mirrors the predictable, low-latency behavior of legacy terminals.
+
 - **Future web extension:** plan a responsive web client that reuses core services and presents the same workflows optimized for browser-based interactions and mobile access.
 
 ## Feature Roadmap
